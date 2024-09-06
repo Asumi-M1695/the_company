@@ -6,7 +6,7 @@
         /**
          * The logic of our app will be place here.
          */
-
+#test
 
         /**
          * Method to store registration details
